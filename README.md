@@ -67,6 +67,18 @@ python build.py
 
 打包后的 exe 会生成在 `dist/PawSync_miao.exe`。
 
+## 界面预览
+
+<div align="center">
+
+### 📱 移动端界面
+<img src="screenshots/mobile_ui.png" width="300" alt="移动端界面">
+
+### 💻 桌面端界面
+<img src="screenshots/desktop_ui.png" width="500" alt="桌面端界面">
+
+</div>
+
 ## 怎么用
 
 1. 打开 `PawSync_miao.exe`。
